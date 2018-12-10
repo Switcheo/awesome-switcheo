@@ -1,4 +1,4 @@
-# Awesome Switcheo
+# Awesome Switcheo [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 A curated list of everything about Switcheo
 
 ## Community Projects
@@ -28,3 +28,11 @@ A curated list of everything about Switcheo
 + [.NET](https://github.com/Zaliro/Switcheo.Net)
 + [Go](https://github.com/O3Labs/switcheo-go)
 + [C#](https://github.com/CityOfZion/NeoModules/)
+
+## Need Help?
++ [FAQ](https://support.switcheo.network/)
++ [Technical](https://join.slack.com/t/switcheonetwork/shared_invite/enQtNDAyMTQ3Mzg3NjA1LTc0ODBlMWMxMjRkNTE5ZjkzN2VkNDNhYjQ2MjFlZTUwMzQ3NGMxYzZlODM5ZTAwZTcxMWM2YjA5MTAyN2FkYmI) - Slack
++ [General](https://t.me/switcheo) - Telegram
+
+## When Moon?
+[Moon Timings](https://www.timeanddate.com/moon/phases/)
