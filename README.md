@@ -2,32 +2,41 @@
 A curated list of everything about Switcheo
 
 ## Community Projects
-#### Analytics
+##### Analytics
 + [Explorer](http://switcheoexplorer.tech/) - View balances, transfers, order histories. Track trading volume & fees collected.
 + [SwitcheoLytics](https://switcheolytics.tech/) - Tracks SWTH token burn, Switcheo's rich list and fees paid on Switcheo Exchange
-#### API Wrappers
+##### API Wrappers
 + Refer to [Switcheo API](https://github.com/ConjurTech/awesome-switcheo#unofficial-connectors)
-#### Bot
+##### Bot
 + [Arbitrage Bot](https://github.com/Devel484/Equalizer) - Checks for arbitrage opportunities across NEO/GAS/SWTH pairs
-#### Trading
+##### Trading
 + [CSV Exporter](https://benammann.github.io/switcheo-exporter/#/) - Export trades made on Switcheo Exchange to a csv file
-#### Wallet
+##### Wallet
 + [Contract Wallet Manager](https://henryckho.github.io/SwitcheoCompetition/) - Access and transfer funds without depending on Switcheo Exchange's UI
 
 ## Switcheo API
-### API Documentation
+#### API Documentation
 + **https://docs.switcheo.network** - Official documentation on Switcheo's APIs and Websockets' streams
 
-### Official Connector
+#### Official Connector
 > Developed by Switcheo Network
 + Coming soon
 
-### Unofficial Connectors
+#### Unofficial Connectors
 > Developed by dedicated community members. Use them at your own risk
 + [Python](https://github.com/KeithSSmith/switcheo-python)
 + [.NET](https://github.com/Zaliro/Switcheo.Net)
 + [Go](https://github.com/O3Labs/switcheo-go)
 + [C#](https://github.com/CityOfZion/NeoModules/)
+
+## Switcheo Smart Contracts
+#### NEO
++ [Source Code for Broker Contract](https://github.com/ConjurTech/switcheo)
++ [Broker Contract Address](https://neotracker.io/contract/91b83e96f2a7c4fdf0c1688441ec61986c7cae26)
++ [SWTH Token Address](https://neotracker.io/asset/ab38352559b8b203bde5fddfa0b07d8b2525e132)
+#### ETH
++ [Source Code for Broker Contract](https://github.com/ConjurTech/switcheo-eth)
++ [Broker Contract Address](https://etherscan.io/address/0xba3ed686cc32ffa8664628b1e96d8022e40543de)
 
 ## Need Help?
 + [FAQ](https://support.switcheo.network/)
