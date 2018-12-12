@@ -7,10 +7,11 @@ A curated list of everything about Switcheo
 + [SwitcheoLytics](https://switcheolytics.tech/) - Tracks SWTH token burn, Switcheo's rich list and fees paid on Switcheo Exchange
 ##### API Wrappers
 + Refer to [Switcheo API](https://github.com/ConjurTech/awesome-switcheo#unofficial-connectors)
-##### Bot
-+ [Arbitrage Bot](https://github.com/Devel484/Equalizer) - Checks for arbitrage opportunities across NEO/GAS/SWTH pairs
 ##### Trading
++ [Arbitrage Bot](https://github.com/Devel484/Equalizer) - Checks for arbitrage opportunities across NEO/GAS/SWTH pairs
 + [CSV Exporter](https://benammann.github.io/switcheo-exporter/#/) - Export trades made on Switcheo Exchange to a csv file
++ [Hodl Switcheo Club](https://hodlswth.club) - Tracks arbitrage opporunities between Switcheo and Binance
++ [Switcheo Monitor Bot](https://hodlswth.club) - A telegram bot that monitors network conditions and sents you an alert when your orders are filled
 ##### Wallet
 + [Contract Wallet Manager](https://henryckho.github.io/SwitcheoCompetition/) - Access and transfer funds without depending on Switcheo Exchange's UI
 
