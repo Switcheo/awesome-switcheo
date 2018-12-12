@@ -32,11 +32,11 @@ A curated list of everything about Switcheo
 
 ## Switcheo Smart Contracts
 #### NEO
-+ [Source Code for Broker Contract](https://github.com/ConjurTech/switcheo)
++ [Source Code for Broker Contract](https://github.com/Switcheo/switcheo)
 + [Broker Contract Address](https://neotracker.io/contract/91b83e96f2a7c4fdf0c1688441ec61986c7cae26)
 + [SWTH Token Address](https://neotracker.io/asset/ab38352559b8b203bde5fddfa0b07d8b2525e132)
 #### ETH
-+ [Source Code for Broker Contract](https://github.com/ConjurTech/switcheo-eth)
++ [Source Code for Broker Contract](https://github.com/Switcheo/switcheo-eth)
 + [Broker Contract Address](https://etherscan.io/address/0xba3ed686cc32ffa8664628b1e96d8022e40543de)
 
 ## Need Help?
